@@ -1,0 +1,20 @@
+# Foto anak yang diunggah pengguna (jangan di-commit)
+uploads/children/*
+!uploads/children/index.html
+
+# Log & file sementara
+*.log
+error_log
+*.tmp
+*.bak
+
+# Konfigurasi lokal / lingkungan
+.env
+.env.*
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
