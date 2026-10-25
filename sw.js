@@ -8,7 +8,7 @@
  *
  * Naikkan CACHE_VERSION setiap kali daftar PRECACHE diubah.
  */
-const CACHE_VERSION = 'pb-v1';
+const CACHE_VERSION = 'pb-v2';
 const STATIC_CACHE = CACHE_VERSION + '-static';
 const FONT_CACHE = CACHE_VERSION + '-fonts';
 
